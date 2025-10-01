@@ -197,3 +197,6 @@ Open `statistical_analysis.ipynb` to regenerate tables and plots used in the pap
 - **Cache/storage**: set `HF_HOME` to a disk with sufficient space.
 
 
+# Main Reference
+
+If you find Painless Activation Steering (PAS) useful for your work, please consider citing our [paper](https://www.arxiv.org/abs/2509.22739).
